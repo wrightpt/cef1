@@ -1,0 +1,3 @@
+[1123/170501:WARNING:cefclient_gtk.cc(34)] X error received: type 0, serial 298, error_code 8, request_code 42, minor_code 0
+
+[1123/170508:WARNING:x11_util.cc(1409)] X error received: serial 152, error_code 3 (BadWindow), request_code 4, minor_code 0 (Unknown)
